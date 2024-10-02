@@ -1,5 +1,9 @@
 # DesktopSDView
+
 Hacky window viewer for live stable diffusion generation
+
+Download
+https://github.com/concarne000/DesktopSDView/releases/tag/v0.00001
 
 Use with a ComfyUI API Export, set the input image to same file as 'ScreenCap Image' on form, output image the same file as 'Return Image'. WAS SUITE recommended for loading and saving images to a filepath rather than internal Comfy folders.
 
