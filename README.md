@@ -2,6 +2,8 @@
 
 Hacky window viewer for live stable diffusion generation
 
+Right now can only be used on same computer as the server using 127.0.0.1:8188
+
 Download
 https://github.com/concarne000/DesktopSDView/releases/tag/v0.00001
 
