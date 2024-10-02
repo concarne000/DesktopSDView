@@ -16,3 +16,14 @@ Example workflow (Uses WAS and LCM lora)
 ![image](https://github.com/user-attachments/assets/099efcc3-e02d-4d8f-949f-de19265dbe84)
 
 Export 'workflow_api.json' to folder containing EXE for now
+
+Todo -
+Save Images
+Make resizable
+Use HTTP to send and receive images
+Check queue is empty before sending prompt
+Add file pickers
+Other stuff I can't think of right now
+
+https://github.com/user-attachments/assets/e1bba9f3-ae32-46c2-b6db-643740c36a2f
+
